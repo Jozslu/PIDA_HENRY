@@ -10,7 +10,6 @@ Alumno: José Luis Martínez Chávez
 
 link del Dashborad: https://jozslu-streamlit-prueba-main-il21qs.streamlit.app/
 
-
 **MENU:** 
 
 * **KPI** - _carpeta que contiene los archivos necesarios para la creación de los KPIs._ 
